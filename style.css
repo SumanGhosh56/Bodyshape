@@ -30,9 +30,11 @@
     justify-content: space-between;
     align-items: center;
 }
-#drop{
+
+#drop {
     letter-spacing: -6px;
 }
+
 .key_word {
     background: rgba(33, 37, 41, 0.95);
     position: fixed;
@@ -1573,9 +1575,11 @@ nav {
     background-repeat: no-repeat;
     background-color: #06c6d1;
 }
-.side_ber{
+
+.side_ber {
     display: none;
 }
+
 .Lorem {
     display: contents;
 }
@@ -2386,16 +2390,19 @@ footer {
     color: #666666;
 }
 
-.flag_map h6{
+.flag_map h6 {
     font-size: 18px;
     margin-bottom: 15px;
 }
-.flag_map{
+
+.flag_map {
     margin-top: 20px;
 }
-.flag_map p{
+
+.flag_map p {
     color: #666666;
 }
+
 .Info_post1 span {
     font-size: 16px;
     color: #06c6d1;
@@ -3281,255 +3288,273 @@ a {
 .tablet_header {
     display: none !important;
 }
-.animaton1{
-    animation: an1 0.50s  linear;
+
+.animaton1 {
+    animation: an1 0.50s linear;
     animation-delay: 0.20s;
     position: relative;
-    
-}
-@keyframes an1{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an1 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton2{
-    animation: an2 0.50s  linear;
+
+.animaton2 {
+    animation: an2 0.50s linear;
     animation-delay: 0.40s;
     position: relative;
-    
-}
-@keyframes an2{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an2 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton3{
-    animation: an3 0.50s  linear;
+
+.animaton3 {
+    animation: an3 0.50s linear;
     animation-delay: 0.60s;
     position: relative;
-    
-}
-@keyframes an3{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an3 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton4{
-    animation: an4 0.50s  linear;
+
+.animaton4 {
+    animation: an4 0.50s linear;
     animation-delay: 0.80s;
     position: relative;
-    
-}
-@keyframes an4{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an4 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton5{
-    animation: an5 0.50s  linear;
+
+.animaton5 {
+    animation: an5 0.50s linear;
     animation-delay: 1s;
     position: relative;
-    
-}
-@keyframes an5{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an5 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton6{
-    animation: an6 0.50s  linear;
+
+.animaton6 {
+    animation: an6 0.50s linear;
     animation-delay: 1.20s;
     position: relative;
-    
-}
-@keyframes an6{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an6 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton8{
-    animation: an6 0.50s  linear;
+
+.animaton8 {
+    animation: an6 0.50s linear;
     animation-delay: 1.40s;
     position: relative;
-    
-}
-@keyframes an8{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an8 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton9{
-    animation: an6 0.50s  linear;
+
+.animaton9 {
+    animation: an6 0.50s linear;
     animation-delay: 1.60s;
     position: relative;
-    
-}
-@keyframes an9{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an9 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton10{
-    animation: an6 0.50s  linear;
+
+.animaton10 {
+    animation: an6 0.50s linear;
     animation-delay: 1.80s;
     position: relative;
-    
-}
-@keyframes an10{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an10 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton11{
-    animation: an6 0.50s  linear;
+
+.animaton11 {
+    animation: an6 0.50s linear;
     animation-delay: 2s;
     position: relative;
-    
-}
-@keyframes an11{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an11 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton12{
-    animation: an6 0.50s  linear;
+
+.animaton12 {
+    animation: an6 0.50s linear;
     animation-delay: 2.20s;
     position: relative;
-    
-}
-@keyframes an12{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an12 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton113{
-    animation: an6 0.50s  linear;
+
+.animaton113 {
+    animation: an6 0.50s linear;
     animation-delay: 2.40s;
     position: relative;
-    
-}
-@keyframes an13{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an13 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton14{
-    animation: an6 0.50s  linear;
+
+.animaton14 {
+    animation: an6 0.50s linear;
     animation-delay: 2.60s;
     position: relative;
-    
-}
-@keyframes an14{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an14 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton15{
-    animation: an6 0.50s  linear;
+
+.animaton15 {
+    animation: an6 0.50s linear;
     animation-delay: 2.80s;
     position: relative;
-    
-}
-@keyframes an15{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an15 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton16{
-    animation: an6 0.50s  linear;
+
+.animaton16 {
+    animation: an6 0.50s linear;
     animation-delay: 3s;
     position: relative;
-    
-}
-@keyframes an16{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an16 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton17{
-    animation: an6 0.50s  linear;
+
+.animaton17 {
+    animation: an6 0.50s linear;
     animation-delay: 3.20s;
     position: relative;
-    
-}
-@keyframes an17{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an17 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton18{
-    animation: an6 0.50s  linear;
+
+.animaton18 {
+    animation: an6 0.50s linear;
     animation-delay: 3.40s;
     position: relative;
-    
-}
-@keyframes an18{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an18 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }
-.animaton19{
-    animation: an6 0.50s  linear;
+
+.animaton19 {
+    animation: an6 0.50s linear;
     animation-delay: 3.60s;
     position: relative;
-    
-}
-@keyframes an19{
-    0%{
 
-    }
-    100%{
+}
+
+@keyframes an19 {
+    0% {}
+
+    100% {
         top: -15px;
     }
 }

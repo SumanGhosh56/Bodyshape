@@ -922,7 +922,9 @@
     .font_tent {
         display: none;
     }
-
+    #drop{
+        letter-spacing: -1px;
+    }
     .join_bt {
         margin-top: 13px;
         padding: 10.5px 18px;
@@ -936,11 +938,11 @@
     .switch_btn {
         width: 40px;
         height: 40px;
-        z-index: 4000000000000;
+        z-index: 4000;
     }
 
     .convert {
-        z-index: 8000000000 !important;
+        z-index: 80000 !important;
     }
 
     .humberger {
